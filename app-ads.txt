@@ -135,3 +135,4 @@ videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 media.net, 8cu12aq1y, RESELLER
 risecodes.com, 6486c6155b231000010244b0, RESELLER
 sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
+improvedigital.com, 2464, RESELLER
