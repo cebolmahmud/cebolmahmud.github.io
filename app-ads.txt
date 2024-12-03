@@ -153,3 +153,7 @@ rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2743945877, RESELLER
 vidazoo.com, 66e04f5e4d7fd89d878d29d2, RESELLER, b6ada874b4d7d0b2
 rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
+admanmedia.com, 2242, RESELLER
+sharethrough.com, xekuhskz, RESELLER, d53b998a7bd4ecd2
+appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
