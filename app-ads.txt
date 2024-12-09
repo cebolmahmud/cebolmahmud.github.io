@@ -159,3 +159,6 @@ sharethrough.com, xekuhskz, RESELLER, d53b998a7bd4ecd2
 appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
 video.unrulymedia.com, 585054906, RESELLER
 bid-matrix.com, f2c71a45ea149366, RESELLER
+pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 755432070, RESELLER
+prado.co, 14260, RESELLER
