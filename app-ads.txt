@@ -165,3 +165,5 @@ prado.co, 14260, RESELLER
 eskimi.com, 2020000545, RESELLER
 video.unrulymedia.com, 498216989, RESELLER
 onetag.com, 8c90176af2e65c8, RESELLER
+thunder-monetize.com, 8221217003, RESELLER
+pubnative.net, 1009988, RESELLER, d641df8625486a7b
