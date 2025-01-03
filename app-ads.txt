@@ -168,3 +168,4 @@ onetag.com, 8c90176af2e65c8, RESELLER
 thunder-monetize.com, 8221217003, RESELLER
 pubnative.net, 1009988, RESELLER, d641df8625486a7b
 tradplusad.com, b3fca24bd11c1242, RESELLER
+openx.com, 540871654, RESELLER, 6a698e2ec38604c6
