@@ -169,3 +169,6 @@ thunder-monetize.com, 8221217003, RESELLER
 pubnative.net, 1009988, RESELLER, d641df8625486a7b
 tradplusad.com, b3fca24bd11c1242, RESELLER
 openx.com, 540871654, RESELLER, 6a698e2ec38604c6
+taurusx.com, 80029, RESELLER
+rhebus.works, 5000863388, RESELLER
+e-planning.net, 79686787743ddfc5, RESELLER, c1ba615865ed87b2
